@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Kore</h1>
 <h3 align="center">Cyber Security enthsiast and a part time Anime Binge Maniac</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/1apV.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theoneoh1&label=Profile%20views&color=004570&style=flat" alt="theoneoh1" /> </p>
 
