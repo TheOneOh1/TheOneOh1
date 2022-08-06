@@ -2,9 +2,7 @@
 <h3 align="center">Cyber Security enthusiast and a part time Anime Binge Maniac</h3>
 <img align="right" alt="Coding" width="380" src="https://37.media.tumblr.com/fecffac2843f4ff54091f583d05b8bd2/tumblr_n7f0bwBqa61shpedgo1_1280.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theoneoh1&label=Profile%20views&color=004570&style=flat" alt="theoneoh1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/theoneoh_1" target="blank"><img src="https://img.shields.io/twitter/follow/theoneoh_1?logo=twitter&style=for-the-badge" alt="theoneoh_1" /></a> </p>
+___________________________________________________________________________________________________________________________________________________________________
 
 - 🌱 I’m currently learning **Cyber Security & IT Infra**
 
