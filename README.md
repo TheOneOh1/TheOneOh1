@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 - 📫 How to reach me **anandkore1@gmail.com**
 
-- 📄 Know about my experiences [TheOneOh1](https://rxresu.me/anandkore1/anandkore)
+- 📄 Know about my experiences [Résumé](https://rxresu.me/anandkore1/anandkore)
 
 - ⚡ Fun fact **I often smile to hide my dark circles**
 
