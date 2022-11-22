@@ -27,4 +27,4 @@ ___________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoneoh1&theme=radical&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theoneoh1&theme=dark" alt="theoneoh1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theoneoh1&theme=tokyonight" alt="theoneoh1" /></p>
