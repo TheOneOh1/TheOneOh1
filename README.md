@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Kore</h1>
-<h3 align="center">Cyber Security enthusiast and a part time Anime Binge Maniac</h3>
+<h3 align="center">DevOps Engineer, Cyber Security enthusiast, and a part-time Anime Binge Maniac</h3>
 <!-- <img align="right" alt="Coding" width="380" src="https://37.media.tumblr.com/fecffac2843f4ff54091f583d05b8bd2/tumblr_n7f0bwBqa61shpedgo1_1280.gif"> -->
 
 ___________________________________________________________________________________________________________________________________________________________________
