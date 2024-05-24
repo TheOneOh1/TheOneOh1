@@ -8,6 +8,7 @@
   
 
 - 🌱 I’m currently learning Azure
+- 📄 Know about my experiences [Résumé](https://rxresu.me/anandkore1/anandkore)
 
   
 
