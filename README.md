@@ -1,17 +1,9 @@
 
 ### <div  align="center">Hi 👋, I'm Anand Kore</div>
 
-  
-
 - 🔭 DevOps Engineer, Cyber Security enthusiast, and a part-time Anime Binge Maniac
-
-  
-
 - 🌱 I’m currently learning Azure
 - 📄 Know about my experiences [Résumé](https://rxresu.me/anandkore1/anandkore)
-
-  
-
 - ⚡ Fun fact: I often smile to hide my dark circles
 
   
@@ -61,6 +53,7 @@
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus" width="40" height="40"/></a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*CAx__1QzoBEVM8Cy.jpeg" alt="Loki" width="40" height="40"/></a>
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://www.scottbrownconsulting.com/wp-content/uploads/2018/11/nmap.png" alt="nmap" width="40" height="40"/></a>
+<a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180927/kyq/kisspng-nagios-company-computer-icons-business-beacon-reti-nagios-enterprises-launches-live-nagios-training-5bad622b2e3033.4484641615380895151892.jpg" alt="Nagios" width="40" height="40"/></a>
 </div>
 
 
