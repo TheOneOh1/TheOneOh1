@@ -53,13 +53,10 @@
 <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://www.airslate.com/preview/explorebots/security/nessus.svg" alt="nessus" width="40" height="40"/></a>
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/></a>
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://www.scottbrownconsulting.com/wp-content/uploads/2018/11/nmap.png" alt="nmap" width="40" height="40"/></a>
-
-
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353400/apache.svg" alt="Apache" width="40" height="40"/></a>
 <a href="https://ngrok.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/philnash/ngrok-for-vscode/main/images/icon.png" alt="ngrok" width="40" height="40"/></a>
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-bitbucket-8-1175256.png?f=webp&w=256" alt="BitBucket" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub Actions" width="40" height="40"/></a>
-
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" alt="Prometheus" width="40" height="40"/></a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*CAx__1QzoBEVM8Cy.jpeg" alt="Loki" width="40" height="40"/></a>
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://www.scottbrownconsulting.com/wp-content/uploads/2018/11/nmap.png" alt="nmap" width="40" height="40"/></a>
