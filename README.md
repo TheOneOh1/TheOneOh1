@@ -3,7 +3,7 @@
 
 - 🔭 DevOps Engineer, Cyber Security enthusiast, and a part-time Anime Binge Maniac
 - 🌱 I’m currently learning Azure
-- 📄 Check out my [Portfolio](https://theoneoh1.github.io/akore-devops/) 
+- 📄 Check out my [Portfolio](https://theoneoh1.github.io/) 
 - ⚡ Fun fact: I often smile to hide my dark circles
 
   
