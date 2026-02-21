@@ -39,7 +39,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 		<td><b>🔁 CI/CD</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-			<img src="https://img.shields.io/badge/-GitLab_CI-CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+			<img src="https://img.shields.io/badge/GitLab-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
 			<img src="https://img.shields.io/badge/-Jenkins-F24D27?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
 			<img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
 			<img src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
