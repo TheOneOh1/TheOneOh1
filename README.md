@@ -154,6 +154,9 @@ I write about DevOps, cloud infrastructure, and security on **Hashnode**.
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@TheOneOh1) -->
 
 <!-- --- -->
+## Lang Stat
+![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
+
 
 ## Let's Connect
 
