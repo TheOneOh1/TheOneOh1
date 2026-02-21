@@ -110,7 +110,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Couch-Control</a></h3>
-			<p>A self-hosted remote that lets you control media playback and volume on your Windows PC — right from your phone's browser. Supports dark/light theme, now-playing display, and real-time WebSocket updates.</p>
+			<p>A self-hosted remote that lets you control media playback and volume on your Windows PC from your phone's browser.</p>
 			<p>
 				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 				<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -120,7 +120,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
-			<p>Automated Vulnerability Assessment & Penetration Testing tool that orchestrates Nmap, Nikto, and Nuclei scans — with beautiful HTML/Markdown reporting and CI/CD integration support.</p>
+			<p>Argus - A Python-based security automation tool that orchestrates Nmap, Nikto, and Nuclei with cool reporting.</p>
 			<p>
 				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 				<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -132,7 +132,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Darkly-Scanner">Darkly-Scanner</a></h3>
-			<p>Scan a specific port across multiple domains or IPs at once. Accepts a file of targets, validates domains, and auto-installs missing dependencies. Perfect for subdomain enumeration workflows.</p>
+			<p>Scan a specific port across multiple domains or IPs at once. Perfect for subdomain enumeration workflows.</p>
 			<p>
 				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 				<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
