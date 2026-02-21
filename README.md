@@ -1,5 +1,7 @@
 # Hey, I'm Anand 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=TheOneOh1&color=blueviolet&style=flat-square&label=Profile+Views)
+
 **DevOps Engineer · Cloud & Security Explorer · Automation Lover**
 
 I love automating old systems, building secure and scalable pipelines, and experimenting with cloud-native solutions. When I'm not tuning infrastructure, I'm probably debugging something obscure or binge-watching anime while pretending everything is fine 😄
@@ -9,7 +11,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 - 🌐 Portfolio: [theoneoh1.github.io](https://theoneoh1.github.io)
 - ⚡ Fun fact: I often smile to hide my dark circles
 
----
+<!-- --- -->
 
 ## 🛠 Tech Stack
 
@@ -100,9 +102,60 @@ I love automating old systems, building secure and scalable pipelines, and exper
 </table>
 
 
----
+<!-- --- -->
 
-## 📬 Let's Connect
+## Featured Projects
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Couch-Control</a></h3>
+			<p>A self-hosted remote that lets you control media playback and volume on your Windows PC — right from your phone's browser. Supports dark/light theme, now-playing display, and real-time WebSocket updates.</p>
+			<p>
+				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+				<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+				<img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets"/>
+				<img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
+			<p>Automated Vulnerability Assessment & Penetration Testing tool that orchestrates Nmap, Nikto, and Nuclei scans — with beautiful HTML/Markdown reporting and CI/CD integration support.</p>
+			<p>
+				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+				<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
+				<img src="https://img.shields.io/badge/-Nuclei-7B42BC?style=flat-square" alt="Nuclei"/>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/TheOneOh1/Darkly-Scanner">Darkly-Scanner</a></h3>
+			<p>Scan a specific port across multiple domains or IPs at once. Accepts a file of targets, validates domains, and auto-installs missing dependencies. Perfect for subdomain enumeration workflows.</p>
+			<p>
+				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+				<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/TheOneOh1?tab=repositories">Explore More →</a></h3>
+			<p>Check out all my repos — from DevOps automation scripts to Kubernetes experiments and everything in between.</p>
+		</td>
+	</tr>
+</table>
+
+
+<!-- ## ✍️ Blog
+
+I write about DevOps, cloud infrastructure, and security on **Hashnode**.
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@TheOneOh1) -->
+
+<!-- --- -->
+
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkore101)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TheOneOh_1)
