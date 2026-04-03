@@ -110,12 +110,12 @@ I love automating old systems, building secure and scalable pipelines, and exper
 	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Blackbox Lite</a></h3>
-            <p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter.</p>
-            <p>
-                <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
-                <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
-                <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
-            </p>
+			<p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter.</p>
+			<p>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+				<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
+				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+			</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
