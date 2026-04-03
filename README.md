@@ -109,14 +109,13 @@ I love automating old systems, building secure and scalable pipelines, and exper
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Couch-Control</a></h3>
-			<p>A self-hosted remote that lets you control media playback and volume on your Windows PC from your phone's browser.</p>
-			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-				<img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets"/>
-				<img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
-			</p>
+			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Blackbox Lite</a></h3>
+            <p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter.</p>
+            <p>
+                <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+                <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
+                <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+            </p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
