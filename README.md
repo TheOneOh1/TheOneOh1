@@ -109,21 +109,20 @@ I love automating old systems, building secure and scalable pipelines, and exper
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Couch-Control</a></h3>
-			<p>A self-hosted remote that lets you control media playback and volume on your Windows PC from your phone's browser.</p>
+			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Blackbox Lite</a></h3>
+			<p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter.</p>
 			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-				<img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=white" alt="WebSockets"/>
-				<img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS"/>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+				<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
+				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
 			<p>Argus - A Python-based security automation tool that orchestrates Nmap, Nikto, and Nuclei with cool reporting.</p>
 			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
 				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
 				<img src="https://img.shields.io/badge/-Nuclei-7B42BC?style=flat-square" alt="Nuclei"/>
 			</p>
@@ -134,8 +133,8 @@ I love automating old systems, building secure and scalable pipelines, and exper
 			<h3><a href="https://github.com/TheOneOh1/Darkly-Scanner">Darkly-Scanner</a></h3>
 			<p>Scan a specific port across multiple domains or IPs at once. Perfect for subdomain enumeration workflows.</p>
 			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
 			</p>
 		</td>
