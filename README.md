@@ -121,8 +121,8 @@ I love automating old systems, building secure and scalable pipelines, and exper
 			<h3><a href="https://github.com/TheOneOh1/Argus-Scan">Argus-Scan</a></h3>
 			<p>Argus - A Python-based security automation tool that orchestrates Nmap, Nikto, and Nuclei with cool reporting.</p>
 			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
 				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
 				<img src="https://img.shields.io/badge/-Nuclei-7B42BC?style=flat-square" alt="Nuclei"/>
 			</p>
@@ -133,8 +133,8 @@ I love automating old systems, building secure and scalable pipelines, and exper
 			<h3><a href="https://github.com/TheOneOh1/Darkly-Scanner">Darkly-Scanner</a></h3>
 			<p>Scan a specific port across multiple domains or IPs at once. Perfect for subdomain enumeration workflows.</p>
 			<p>
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-				<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
 			</p>
 		</td>
