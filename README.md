@@ -109,12 +109,13 @@ I love automating old systems, building secure and scalable pipelines, and exper
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/TheOneOh1/Couch-Control">Blackbox Lite</a></h3>
+			<h3><a href="https://github.com/TheOneOh1/blackbox-lite">Blackbox Lite</a></h3>
 			<p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter.</p>
 			<p>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
 				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/blackbox-lite?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
@@ -125,6 +126,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 				<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
 				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
 				<img src="https://img.shields.io/badge/-Nuclei-7B42BC?style=flat-square" alt="Nuclei"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/Argus-Scan?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
 			</p>
 		</td>
 	</tr>
@@ -136,6 +138,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/Darkly-Scanner?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
@@ -146,14 +149,20 @@ I love automating old systems, building secure and scalable pipelines, and exper
 </table>
 
 
-<!-- ## ✍️ Blog
+## ✍️ Blog
 
-I write about DevOps, cloud infrastructure, and security on **Hashnode**.
+I write about DevOps, cloud infrastructure, and lessons from production on **Medium**.
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@TheOneOh1) -->
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-handle)
 
-<!-- --- -->
-## Lang Stat
+<!-- Update the links below with your actual blog posts -->
+| # | Title | Topic |
+|---|-------|-------|
+| 1 | [How I Stopped 30-Minute Deployments](#) | CI/CD, Vite |
+| 2 | [PostgreSQL PITR: A Practical Guide](#) | PostgreSQL, Backup |
+| 3 | [Your Next Blog Title Here](#) | Topic |
+
+## 📊 Language Stats
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
 
 
