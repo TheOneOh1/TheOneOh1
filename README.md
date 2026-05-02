@@ -115,7 +115,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
 				<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
-				<img src="https://img.shields.io/github/stars/TheOneOh1/blackbox-lite?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/blackbox-lite?style=flat" alt="Stars"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
@@ -126,7 +126,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 				<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
 				<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
 				<img src="https://img.shields.io/badge/-Nuclei-7B42BC?style=flat-square" alt="Nuclei"/>
-				<img src="https://img.shields.io/github/stars/TheOneOh1/Argus-Scan?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/Argus-Scan?style=flat" alt="Stars"/>
 			</p>
 		</td>
 	</tr>
@@ -138,7 +138,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/-Networking-0078D6?style=flat-square" alt="Networking"/>
-				<img src="https://img.shields.io/github/stars/TheOneOh1/Darkly-Scanner?style=flat-square&label=⭐&color=yellow" alt="Stars"/>
+				<img src="https://img.shields.io/github/stars/TheOneOh1/Darkly-Scanner?style=flat" alt="Stars"/>
 			</p>
 		</td>
 		<td width="50%" valign="top">
@@ -149,7 +149,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 </table>
 
 
-## ✍️ Blog
+<!-- ## ✍️ Blog
 
 I write about DevOps, cloud infrastructure, and lessons from production on **Medium**.
 
@@ -160,7 +160,7 @@ I write about DevOps, cloud infrastructure, and lessons from production on **Med
 |---|-------|-------|
 | 1 | [How I Stopped 30-Minute Deployments](#) | CI/CD, Vite |
 | 2 | [PostgreSQL PITR: A Practical Guide](#) | PostgreSQL, Backup |
-| 3 | [Your Next Blog Title Here](#) | Topic |
+| 3 | [Your Next Blog Title Here](#) | Topic | -->
 
 ## 📊 Language Stats
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
