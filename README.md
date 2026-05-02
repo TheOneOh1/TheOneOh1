@@ -155,7 +155,6 @@ I write about DevOps, cloud infrastructure, and lessons from production on **Med
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-handle)
 
-<!-- Update the links below with your actual blog posts -->
 | # | Title | Topic |
 |---|-------|-------|
 | 1 | [How I Stopped 30-Minute Deployments](#) | CI/CD, Vite |
