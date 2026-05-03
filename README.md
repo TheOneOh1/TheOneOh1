@@ -149,17 +149,17 @@ I love automating old systems, building secure and scalable pipelines, and exper
 </table>
 
 
-<!-- ## ✍️ Blog
+## Blog
 
-I write about DevOps, cloud infrastructure, and lessons from production on **Medium**.
+I write about my experiences in DevOps, cloud infrastructure on **Medium**.
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@your-handle)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@anandkore1) 
 
 | # | Title | Topic |
 |---|-------|-------|
-| 1 | [How I Stopped 30-Minute Deployments](#) | CI/CD, Vite |
-| 2 | [PostgreSQL PITR: A Practical Guide](#) | PostgreSQL, Backup |
-| 3 | [Your Next Blog Title Here](#) | Topic | -->
+| 1 | [How I Gave Our PostgreSQL Database a Time Machine (With pgBackRest)](https://medium.com/@anandkore1/how-i-gave-our-postgresql-database-a-time-machine-with-pgbackrest-acdc2c0842be) | PostgreSQL, PITR, Backup & Recovery |
+| 2 | [My Portfolio Site Has a CI/CD Pipeline. Here’s Why.](https://medium.com/@anandkore1/my-portfolio-site-has-a-ci-cd-pipeline-heres-why-63ac5cbaaddb) | Portfolio, GitHub Actions |
+| 3 | [How I Stopped Manually Pinging VMs During an Infrastructure Crisis](https://medium.com/@anandkore1/how-i-stopped-manually-pinging-vms-during-an-infrastructure-crisis-b1f1b2d8890b) | Bash, Observability, Prometheus |
 
 ## 📊 Language Stats
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
