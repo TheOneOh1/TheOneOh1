@@ -13,7 +13,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 
 <!-- --- -->
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <table>
 	<tr>
@@ -161,7 +161,7 @@ I write about my experiences in DevOps, cloud infrastructure on **Medium**.
 | 2 | [My Portfolio Site Has a CI/CD Pipeline. Here’s Why.](https://medium.com/@anandkore1/my-portfolio-site-has-a-ci-cd-pipeline-heres-why-63ac5cbaaddb) | Portfolio, GitHub Actions |
 | 3 | [How I Stopped Manually Pinging VMs During an Infrastructure Crisis](https://medium.com/@anandkore1/how-i-stopped-manually-pinging-vms-during-an-infrastructure-crisis-b1f1b2d8890b) | Bash, Observability, Prometheus |
 
-## 📊 Language Stats
+## Language Stats
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
 
 
