@@ -149,9 +149,10 @@ I love automating old systems, building secure and scalable pipelines, and exper
 </table>
 
 
-## Blog
+## Writing
 
-I write about my experiences in DevOps, cloud infrastructure on **Medium**.
+Projects without documentation are an information black hole.
+I write about real-world DevOps problems I’ve faced, from something breaking at the wrong time to making a proactive system decision to avoid breaking in the first place.
 
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@anandkore1) 
 
