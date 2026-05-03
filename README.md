@@ -110,7 +110,7 @@ I love automating old systems, building secure and scalable pipelines, and exper
 	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/TheOneOh1/blackbox-lite">Blackbox Lite</a></h3>
-			<p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter, eliminate manual checks across multiple hosts</p>
+			<p>Bash script to monitor websites and VM hosts, exporting Prometheus metrics for Node Exporter, eliminating manual checks across multiple hosts</p>
 			<p>
 				<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
 				<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus"/>
@@ -160,6 +160,8 @@ I write about my experiences in DevOps, cloud infrastructure on **Medium**.
 | 1 | [How I Gave Our PostgreSQL Database a Time Machine (With pgBackRest)](https://medium.com/@anandkore1/how-i-gave-our-postgresql-database-a-time-machine-with-pgbackrest-acdc2c0842be) | PostgreSQL, PITR, Backup & Recovery |
 | 2 | [My Portfolio Site Has a CI/CD Pipeline. Here’s Why.](https://medium.com/@anandkore1/my-portfolio-site-has-a-ci-cd-pipeline-heres-why-63ac5cbaaddb) | Portfolio, GitHub Actions |
 | 3 | [How I Stopped Manually Pinging VMs During an Infrastructure Crisis](https://medium.com/@anandkore1/how-i-stopped-manually-pinging-vms-during-an-infrastructure-crisis-b1f1b2d8890b) | Bash, Observability, Prometheus |
+| 4 | [How we Stopped 30-Minute Deployments and Saved Our Team 95 Hours a Month](https://medium.com/@anandkore1/how-we-stopped-30-minute-deployments-and-saved-our-team-95-hours-a-month-0d0dc1bcce98) | CI/CD, React, PM2 |
+| 5 | [How to Gracefully Handle Downtime with Nginx (and a 503 Status Code)](https://medium.com/@anandkore1/how-to-gracefully-handle-downtime-with-nginx-and-a-503-status-code-5d16326e1add) | Nginx, Downtime, 503 |
 
 ## Language Stats
 ![Top Languages](https://vani-stats.vercel.app/api?username=TheOneOh1&theme=dark&max_langs=5)
